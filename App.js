@@ -68,7 +68,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff4f4',
   },
   h1: {
-    marginTop: 20,
+    marginTop: 24,
     fontSize: 40,
     backgroundColor: "#D65D81",
     color: "#fff",
